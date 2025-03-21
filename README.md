@@ -1,3 +1,4 @@
+# mihirkrishna.github.io
 Personal Portfolio Website
 
 🚀 A modern, responsive portfolio showcasing my skills, projects, and experience. Built with React and Next.js for optimal performance, featuring server-side rendering, smooth navigation, and a sleek, minimalistic design,  it serves as a digital hub for me and my work.
