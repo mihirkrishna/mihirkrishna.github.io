@@ -17,4 +17,4 @@ Personal Portfolio Website
 
 💡 This portfolio is not just a showcase—it's a reflection of my journey, skills, and passion for technology.
 
-🌟 Star ⭐ this repo and check out the live site!
+⭐
